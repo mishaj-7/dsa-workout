@@ -12,4 +12,4 @@ const find = (ar,value) => {
     }
 }
 
-console.log(find([1,2,3,45,6,65,3],6));
+console.log(find([1,2,3,45,6,65,3],68));
