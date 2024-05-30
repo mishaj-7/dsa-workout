@@ -10,4 +10,6 @@ function flatten(arr) {
   }
   return output;
 }
-console.log(flatten(arr));
+const a = [...flatten(arr)];
+b = a.map(Number);
+console.log(b);
